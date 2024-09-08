@@ -1,0 +1,27 @@
+{
+  "name": "discord-v14-basic-guard-bot",
+  "version": "5.0.0",
+  "description": "discord-v14-basic-guard-bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "ShaX",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.17.0",
+    "discord-url": "^5.0.0",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
