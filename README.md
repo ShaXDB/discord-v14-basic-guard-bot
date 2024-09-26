@@ -19,3 +19,5 @@ Before Starting To Use The Bot I made Please;
 • .trustedusers -> to get a list with Trusted Users.
 
 Note: If You Want To Change Procces Title or Bot Status if config not working Please Edit ready.js
+
+! Will be Updated To Latest Version in 30.09.2024 !
